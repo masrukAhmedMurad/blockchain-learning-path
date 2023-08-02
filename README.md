@@ -16,8 +16,9 @@ with:
   2. Watch [What are Digital Signatures and How Do They Work?](https://www.youtube.com/watch?v=JR4_RBb8A9Q) (Est. time: 3 minutes)
 - Cryptographic hashing
   1. Watch [What is Hashing on the Blockchain?](https://www.youtube.com/watch?v=IGSB9zoSx70) (Est. time: 5 minutes)
-  2. Read [What is Hashing in Blockchain?](https://learn.bybit.com/blockchain/what-is-hashing-in-blockchain/). (Est. time: 9 minutes)
-
+  2. Read .[https://blockgeeks.com/guides/what-is-hashing/). (Est. time: 10 minutes)
+  3. Read [What is Hashing in Blockchain?](https://learn.bybit.com/blockchain/what-is-hashing-in-blockchain/). (Est. time: 9 minutes)
+    
 ## Blockchain
 
 1. Read [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp). (Est.time: 26 minutes)
